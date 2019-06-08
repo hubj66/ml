@@ -1,6 +1,8 @@
 """
 denclue.py
 
+This methods was taken from mgarrett from github with minor changes 
+
 @author: mgarrett
 """
 import numpy as np
